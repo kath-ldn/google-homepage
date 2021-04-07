@@ -1,9 +1,34 @@
-Hello
+# Google Homepage reconstruction
 
-This is me imitating the Google Homepage
+## About
 
-By the end of this I will hopefully have learned more about HTML, CSS, positioning content on the page and making it look GOOOOD.
+This is my solution to [The Front End Project: Google Homepage](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css) in The Odin Project's Web Development Foundations Module. The task was to deconstruct and re-build the (Google homepage)[https://www.google.com/].
 
-This will help me in building my own stuff.
+### Live Demo
 
-I cannot work out how to do the app-grid - I will leave that for a later date! 
+(Here!)[https://kath-ldn.github.io/google-homepage/]
+
+### Built with
+
+HTML & CSS only.
+
+## Prerequisites & Installation
+
+No special requirements.
+
+## Roadmap & known issues
+
+This was my first mini-project with The Odin Project! If I were to approach it now, I would likely do it a little differently (and probably a lot quicker). I've neatened up the HTML/CSS from the original, but if I were to spend more time on it I would:
+
+* add SVG icons to the Search Bar
+* increase responsiveness to match Google page (currently only works on desktop)
+* refactor code to reduce/reuse it further.
+
+However, perfection is the enemy of progress, so I am going to leave this be and move on to other things ;)
+
+## Acknowledgements
+
+* Google
+* Google Fonts
+* GitHub Pages
+* meyerweb.com CSS reset
