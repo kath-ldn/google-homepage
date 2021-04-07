@@ -2,11 +2,11 @@
 
 ## About
 
-This is my solution to [The Front End Project: Google Homepage](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css) in The Odin Project's Web Development Foundations Module. The task was to deconstruct and re-build the (Google homepage)[https://www.google.com/].
+This is my solution to [The Front End Project: Google Homepage](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css) in The Odin Project's Web Development Foundations Module. The task was to deconstruct and re-build the [Google homepage](https://www.google.com/).
 
 ### Live Demo
 
-(Here!)[https://kath-ldn.github.io/google-homepage/]
+[Here!](https://kath-ldn.github.io/google-homepage/)
 
 ### Built with
 
